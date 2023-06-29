@@ -1,0 +1,2 @@
+# Odin Recipe [redone]
+This is a redone of the Odin Recipe that I have done before. I have taken The Odin Project before, but I did not complete it. Since it has been a long time since I have done The Odin Project I am redoing it to get a review of html.
